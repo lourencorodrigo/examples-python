@@ -1,7 +1,7 @@
 '''
 Created on 29 de out de 2017
 Processamento digital de sinais 
-@author: Edilson Tarcio e Rodrigo Lourenço
+@author: Rodrigo Lourenço
 '''
 import matplotlib.pyplot as plt
 import numpy as np
